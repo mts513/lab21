@@ -6,7 +6,7 @@ Created with CodeSandbox
 
 ### Links and Resources
 * [submission PR](https://github.com/mts513/lab21/pull/1)
-* [travis](http://xyz.com)
+* not updated [travis](http://xyz.com)
 * [Netlify](https://csb-0ye7b.netlify.com/)
 
 ### Setup
