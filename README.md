@@ -5,7 +5,7 @@ Created with CodeSandbox
 ### Author: Morgan T Shaw
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/mts513/lab21/pull/1)
 * [travis](http://xyz.com)
 * [Netlify](https://csb-0ye7b.netlify.com/)
 
